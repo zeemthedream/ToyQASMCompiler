@@ -14,4 +14,5 @@ Personal project to gain experience in quantum circuit representation and the co
   - A qubit can be in a linear combination of 0 and 1. Only when measured does it collapse to 0 or 1 based on probabilities.
 - Quantum circuits are sequences of gate operations on qubits
   - gates include `X`, `H`, `Z`, `CX`, `Measure`
-- `Entanglement` two or more quibits can be in a joint together state such that their individual states don't tell you the full story
+- `Entanglement`: two or more quibits can be in a joint together state such that their individual states don't tell you the full story
+- `Bell State`: maximally entangled 2-quibit state. 
