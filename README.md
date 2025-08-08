@@ -16,4 +16,4 @@ Personal project to gain experience in quantum circuit representation and the co
   - gates include `X`, `H`, `Z`, `CX`, `Measure`
 - `Entanglement`: two or more quibits can be in a joint together state such that their individual states don't tell you the full story
 - `Bell State`: maximally entangled 2-quibit state. 
-- `AST`: Abstract Syntax tree is a structured, hierarchical representation of a program. Each node represents a meaningful element like a gate, a measurement, or a register declaration.
+- `Abstract Syntax Tree (AST)`: Abstract Syntax tree is a structured, hierarchical representation of a program. Each node represents a meaningful element like a gate, a measurement, or a register declaration.
